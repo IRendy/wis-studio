@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as t,S as r}from"./chunks/framework.3dda5700.js";const f=JSON.parse('{"title":"组别","description":"","frontmatter":{},"headers":[],"relativePath":"teams/index.md","filePath":"teams/index.md"}'),o={name:"teams/index.md"},i=r("",7),n=[i];function s(h,c,d,_,l,m){return e(),t("div",null,n)}const u=a(o,[["render",s]]);export{f as __pageData,u as default};

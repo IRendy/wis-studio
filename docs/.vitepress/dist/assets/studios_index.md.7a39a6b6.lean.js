@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as t,S as r}from"./chunks/framework.3dda5700.js";const f=JSON.parse('{"title":"工作室","description":"","frontmatter":{},"headers":[],"relativePath":"studios/index.md","filePath":"studios/index.md"}'),o={name:"studios/index.md"},i=r("",9),n=[i];function s(h,d,c,l,_,p){return e(),t("div",null,n)}const m=a(o,[["render",s]]);export{f as __pageData,m as default};
